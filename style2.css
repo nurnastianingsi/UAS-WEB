@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(177, 64, 147);
+}
+h2{
+    color: rgb(123, 0, 105);
+    text-align: justify;
+    text-align: center;
+    border-style: double;
+    border-width: 7px;
+    border-color: rgb(154, 48, 131);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;;
+    font-family: 'Caveat', cursive;
+    background-color: rgba(239, 192, 255, 0.543);;
+}
+
+a{
+    color: rgb(132, 0, 125);
+    text-align: justify;
+    text-align: center;
+    text-decoration: none ;
+    background-color: rgba(239, 192, 255, 0.543);
+    border-style: dotted;
+    border-width: 2px;
+    border-color: rgb(96, 10, 109);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 3px;;
+    font-family: 'Caveat', cursive;
+}  
+
+p{
+    color: rgb(132, 0, 125) ;
+    text-align: justify;
+    background-color: rgba(239, 192, 255, 0.543);
+    border:  2px solid rgb(96, 10, 109) ;
+    border-radius: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 10px;;  
+}
+
+ul{
+    color: rgb(132, 0, 125) ;
+    text-align: justify;
+    background-color: rgba(239, 192, 255, 0.543);
+    border:  2px solid rgb(96, 10, 109) ;
+    border-radius: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 20px;;     
+}
+
+
